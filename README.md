@@ -9,7 +9,7 @@ This repository contains the raw trial-level recognition results collected durin
 
 | File | Description |
 |---|---|
-| `data/capTokens_eval.xlsx` | Trial-level recognition results, exported from the application's debug log. Contains three sheets, one per evaluation condition (see below). |
+| `EvaluationDataset/capTokens_eval.xlsx` | Trial-level recognition results, exported from the application's debug log. Contains three sheets, one per evaluation condition (see below). |
 | `LICENSE` | License governing reuse of the dataset. |
 
 ## Study design / conditions
