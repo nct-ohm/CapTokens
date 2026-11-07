@@ -3,7 +3,7 @@ CapTokens: Authentication Through 3D-Printed Tangibles with Hidden Conductive St
 
 # Datasets used in the evaluation section of the paper
 
-Technical Evaluation (as used in Section 5.1)
+Technical Evaluation (as used in Section 5.1) and 
 User Study           (as used in Section 5.2)
 
 ## Contents
