@@ -10,6 +10,6 @@ User Study           (as used in Section 5.2)
 
 | File | Description |
 |---|---|
-| `TechnicalEvauation/` | Trial-level recognition results, exported from the application's debug log. Contains three sheets, one per evaluation condition. |
+| `TechnicalEvaluation/` | Trial-level recognition results, exported from the application's debug log. Contains three sheets, one per evaluation condition. |
 | 'UserStudy/'| Logged user prompts, inputs and timings of the user study |
 | `LICENSE` | License governing reuse of the dataset. |
